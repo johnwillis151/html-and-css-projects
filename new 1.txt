@@ -1,1 +1,1 @@
-<img src="C:\website\images">
+<img src=C:\Users\sr118\Documents\GitHub\html-and-css-projects\blue nose pitty.jpg>
