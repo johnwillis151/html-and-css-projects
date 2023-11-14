@@ -1,2 +1,5 @@
+<!DOCTYPE html>
+<html lang="en"
 <img src=C:\Users\sr118\Documents\GitHub\html-and-css-projects\blue nose pitty.jpg>
 <a href=html-and-css-projects>home</a>
+</html>
