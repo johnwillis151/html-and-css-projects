@@ -42,7 +42,7 @@ h1 {
 
 h1::after{ /* this is the underline */
     display: block;
-    content: "";
+    content: " ";
     height: 2px;
     width: 150px;
     background: #E91C1C;
@@ -50,7 +50,7 @@ h1::after{ /* this is the underline */
     box-shadow: 5px 2px 3px rgba(0, 0, 0, 0.5 )
 }
 
-h1 {
+h2 {
     line-height: 50px;
     color: #E91C1C;
 }
@@ -90,7 +90,7 @@ section {
 .navbar {
     height: 105px;
     max-height: 340px;
-    display: block;
+    display: inline-block;
 }
 
 .container {
@@ -112,12 +112,12 @@ section {
     margin-left: -15px;
 }
 
+.clearfix::after, /* after is now ::after with a double colon*/
 .clearfix::after,
-.clearfix::after::after,
 .navbar::after {
     clear: both;
     display: table;
-    content: "";
+    content: " ";
 }
 
 .wrap {
@@ -148,6 +148,7 @@ section {
 /*======================================
 HOME SELECTION STYLES
 ========================================*/
+
 #home {
     background: url(../images/planets.jpg) no-repeat 50% 50%;
     background-attachment: fixed;
@@ -171,8 +172,8 @@ HOME SELECTION STYLES
     word-spacing: 21pt;
     font-size: 4.5em;
     text-align: left;
-    font-family: impact, sans serif;
-    border: 5px doulbe #fff;
+    font-family: impact, sans-serif;
+    border: 5px double #fff;
     padding: 10px;
 }
 
