@@ -211,7 +211,7 @@ HOME SELECTION STYLES
     background-color: #f5f3f3;
  }
 
- .resveration {
+ .reseveration {
     width: 60%;
     padding: 10px;
     border-radius: 8px;
@@ -220,7 +220,7 @@ HOME SELECTION STYLES
     box-shadow: -1px -1px 1px 0 rgba(0, 0, 0, 1), 1px 2px 10px 0 rgba(0, 0, 0, 0.5 );
  }
 
- .resveration h2 {
+ .reseveration h2 {
     width: 70%;
     text-align: center;
     margin: 0 auto;
@@ -231,7 +231,7 @@ HOME SELECTION STYLES
     word-spacing: 0pt;
  }
 
- .resveration h2 span {
+ .reseveration h2 span {
     width: 70%;
     text-align: center;
     margin: 0 auto;
@@ -242,7 +242,7 @@ HOME SELECTION STYLES
     word-spacing: .3pt;
  }
 
- .resveration p { 
+ .reseveration p { 
     color: #13161b;
     width: 50%;
     margin: 0 auto;
