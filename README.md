@@ -4,9 +4,39 @@
     
 <head>
         <meta charset="utf-8">
-        <title> All my projects </title>  
+        <h1>All my projects</h1> 
 </head>
 
 <body>
-     <p>The exotic car page</p>
-     <p>The academy cinema 
+     <p>In this read me its gonna go over all my projects that i have done so far !!! </p>
+     <p>My fIrst few projects were skateboards.html , dog.html and bmx.html</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
