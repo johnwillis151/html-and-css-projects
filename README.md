@@ -15,8 +15,12 @@
               <h1>PROJECTS</h1>
           </div>
                <div>
-                   <h2>Skateboard</h2>
+                   <h3>Skateboard.html</h3>
                    <p>this is project goes over the history of skateboarding</p>
+                </div>
+                <div>
+                    <h3>bmx.html</h3>
+                    <p> Just Like in the skateboard.html it goes over the history of bmx</p>
 
   
 
