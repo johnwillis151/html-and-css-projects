@@ -9,7 +9,8 @@
 
 <body>
      <p>In this read me its gonna go over all my projects that i have done so far !!! </p>
-     <p>My fIrst few projects were https://github.com/johnwillis151/html-and-css-projects/blob/main/skateboards.html, dog.html and bmx.html</p>
+     <p>[I'm a relative reference to a repository file]https://github.com/johnwillis151/html-and-css-projects/blob/main/skateboards.html)
+</p>
 
 
 
