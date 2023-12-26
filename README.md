@@ -8,9 +8,14 @@
 </head>
 
 <body>
+     <div>
      <p>In this read me its gonna go over all my projects that i have done so far !!! </p>
-     <p>[I'm a relative reference to a repository file]https://github.com/johnwillis151/html-and-css-projects/blob/main/skateboards.html)
-</p>
+     </div>
+          <div>
+              <h1>PROJECTS</h1>
+          </div>
+
+  
 
 
 
