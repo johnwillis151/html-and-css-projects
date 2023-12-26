@@ -21,6 +21,10 @@
                 <div>
                     <h3>bmx.html</h3>
                     <p> Just Like in the skateboard.html it goes over the history of bmx</p>
+                </div>
+                <div>
+                    <h3>Index.html</h3>
+                    <p>this website is about exotic cars it was the first website that i enhanced with css!</p>
 
   
 
