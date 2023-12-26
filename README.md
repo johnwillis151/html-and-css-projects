@@ -14,6 +14,9 @@
           <div>
               <h1>PROJECTS</h1>
           </div>
+               <div>
+                   <h2>Skateboard</h2>
+                   <p>this is project goes over the history of skateboarding</p>
 
   
 
